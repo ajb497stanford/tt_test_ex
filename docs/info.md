@@ -13,7 +13,7 @@ This just works2
 
 ## How to test
 
-This just works
+This just works2
 
 ## External hardware
 
